@@ -1,0 +1,21 @@
+{
+    "white_concrete_powder": "concrete_powder_white.png",
+    "orange_concrete_powder": "concrete_powder_orange.png",
+    "magenta_concrete_powder": "concrete_powder_magenta.png",
+    "light_blue_concrete_powder": "concrete_powder_light_blue.png",
+    "yellow_concrete_powder": "concrete_powder_yellow.png",
+    "lime_concrete_powder": "concrete_powder_lime.png",
+    "pink_concrete_powder": "concrete_powder_pink.png",
+    "gray_concrete_powder": "concrete_powder_gray.png",
+    "light_gray_concrete_powder": "concrete_powder_silver.png",
+    "cyan_concrete_powder": "concrete_powder_cyan.png",
+    "purple_concrete_powder": "concrete_powder_purple.png",
+    "blue_concrete_powder": "concrete_powder_blue.png",
+    "brown_concrete_powder": "concrete_powder_brown.png",
+    "green_concrete_powder": "concrete_powder_green.png",
+    "red_concrete_powder": "concrete_powder_red.png",
+    "black_concrete_powder": "concrete_powder_black.png",
+    "gravel": "gravel.png",
+    "red_sand": "red_sand.png",
+    "sand": "sand.png"
+}
