@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Minecraft Bedrock Pixel Art RP",
+    "description": "Turn this off if the the colors will look messed up.\n\nby Warden Whisperer, AM",
+    "uuid": "$uid3",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "$uid4",
+      "version": [1, 0, 0]
+    }
+  ]
+}
