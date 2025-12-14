@@ -10,7 +10,7 @@ Some of the artwork made using this program:
 
 ## Website
 
-Coming Soon! (You'll be able to access all these features + more, without installations and on ANY device)
+COMING SOON! (You'll be able to access all these features + more, without installations and on ANY device)
 
 ## Installation
 Clone this repo. Inside the repo, run `pip install requirements.txt`
