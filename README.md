@@ -33,3 +33,9 @@ Once you are inside the world, you can start summon the artwork by breaking a gr
 - ***Only part of the artwork is visible.*** This is a known issue on Minecraft Bedrock edition, especially on lower end devices (phones, tablets, etc.) due to render distance restraints. You must go near the area where the image did not generate correctly, then break a grass block there.
 
 
+## Are you a developer who wants to contribute?
+Feel free to add any of the following features (or anything else) and open a pull request!
+- Automatic addition of entire image (even outside of the render distance) using ticking areas or similar. Requires addition and removal of ticking areas, since they are capped at 10.
+- JS implementation (particularly of the CEILAB conversion of pixels). Needs to be fast and accurate.
+- Website front-end (home page with simple uploading of image and displays. Even a CSS file and cooresponding HTML template will help!!)
+- Adding a full 3D model. Use the same technique of creating the behaviour pack `.js`. Implement a way to covnert 3D files into a list of blocks and coords that can be injected into a behaviour pack.
