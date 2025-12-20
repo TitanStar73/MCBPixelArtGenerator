@@ -5,7 +5,7 @@ Some of the artwork made using this program:
 ![YouTube Views](https://img.shields.io/badge/Views-15M+-E62117?style=for-the-badge&logo=youtube&logoColor=white)
 <br>
 [![Instagram](https://img.shields.io/badge/Follow-On_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wardenwhisperer)
-![Instagram Views](https://img.shields.io/badge/Views-2M+-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Instagram Views](https://img.shields.io/badge/Views-3M+-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 ## Website
