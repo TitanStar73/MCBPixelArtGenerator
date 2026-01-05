@@ -2,10 +2,10 @@
 Some of the artwork made using this program:
 
 [![Instagram](https://img.shields.io/badge/Subscribe-On_YouTube-E62117?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Warden_Whisperer)
-![YouTube Views](https://img.shields.io/badge/Views-15M+-E62117?style=for-the-badge&logo=youtube&logoColor=white)
+![YouTube Views](https://img.shields.io/badge/Views-20M+-E62117?style=for-the-badge&logo=youtube&logoColor=white)
 <br>
 [![Instagram](https://img.shields.io/badge/Follow-On_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wardenwhisperer)
-![Instagram Views](https://img.shields.io/badge/Views-3M+-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Instagram Views](https://img.shields.io/badge/Views-4M+-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 ## Website
